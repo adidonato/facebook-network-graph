@@ -1,6 +1,6 @@
 ## Generate D3.js interactive friendship network graphs with Facebook data
 
-[Check example](https://adidonato.github.io/fb-redirected.html)
+[Check example](adidonato.github.io/fb-redirected.html)
 
 ## Usage
 
