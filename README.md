@@ -1,8 +1,10 @@
 ## Generate D3.js interactive friendship network graphs with Facebook data
 
+[Check example](https://adidonato.github.io/fb-redirected.html)
+
 ## Usage
 
-* Get your FB Access Token here: https://developers.facebook.com/tools/access_token/
+* Get your FB Access Token [here](https://developers.facebook.com/tools/access_token/)
 
 * pull your FB friends data and create cliques in your network:
 ```
